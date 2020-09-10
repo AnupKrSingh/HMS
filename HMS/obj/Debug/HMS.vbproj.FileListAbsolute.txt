@@ -1,0 +1,11 @@
+H:\vb\HMS\HMS\bin\Debug\HMS.exe.config
+H:\vb\HMS\HMS\bin\Debug\HMS.exe
+H:\vb\HMS\HMS\bin\Debug\HMS.pdb
+H:\vb\HMS\HMS\bin\Debug\HMS.xml
+H:\vb\HMS\HMS\obj\Debug\HMS.Hotel.resources
+H:\vb\HMS\HMS\obj\Debug\HMS.Resources.resources
+H:\vb\HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+H:\vb\HMS\HMS\obj\Debug\HMS.exe
+H:\vb\HMS\HMS\obj\Debug\HMS.xml
+H:\vb\HMS\HMS\obj\Debug\HMS.pdb
+H:\vb\HMS\HMS\bin\Debug\Customer.accdb
